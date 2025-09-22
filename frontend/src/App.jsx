@@ -24,5 +24,5 @@ const testApiCall = async () => {
     }
   };
   testApiCall();
-  */
+*/
 export default App;
